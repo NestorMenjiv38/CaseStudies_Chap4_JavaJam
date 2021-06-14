@@ -152,4 +152,12 @@ footer {
       header { background-image: url(coffeelogo.jpg); }
     }
 }
+table { 
+margin: auto; 
+width: 90%;
+border-spacing: 0;
+}
+th, td { padding: 10px; }
+tr:nth-of-type(odd) { background-color: #D2B48E; }
+
 /* CLOSED */
